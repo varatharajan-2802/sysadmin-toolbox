@@ -1,0 +1,10 @@
+# Generated reports - contain real hostnames/domain data, never commit these
+*.html
+*.log
+AD_HealthCheck_*
+*_report_*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
